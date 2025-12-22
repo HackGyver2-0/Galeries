@@ -1,11 +1,12 @@
-                                                    
+```
  _____     _         _        _____ _       _       
 |   __|___| |___ ___|_|___   |  _  | |_ ___| |_ ___ 
 |  |  | .'| | -_|  _| | -_|  |   __|   | . |  _| . |
 |_____|__,|_|___|_| |_|___|  |__|  |_|_|___|_| |___|
-                                                    
-=====================================================================================
 
+Galerie de photos du HackGyver 2.0
+=====================================================
+```   
 Bienvenue sur le dépôt de gestion des images du Hackerspace. Ce dépôt est directement lié au carrousel (Embla) de notre page ["Galeries"](https://www.hackgyver.fr/pages/galeries/) sur le site web.
 
 ## Comment ajouter vos photos ?

@@ -14,18 +14,22 @@ Bienvenue sur le dépôt de gestion des images du Hackerspace. Ce dépôt est di
 Pour que vos photos apparaissent correctement sur le site, il est crucial de respecter l'organisation des dossiers et le nommage des fichiers.
 
 Le dossier racine est organisé par thématiques. Actuellement :
+
     graffiti/ : Photos de street art et graffitis.
 
 Pour garder une cohérence et éviter les erreurs d'affichage, merci de nommer vos fichiers sous la forme : Nom_Lieu_Numero.jpg
+
     Exemple actuel : graffiti/Miizix_Londres_01.jpg
 
 Étapes pour contribuer
+
     Préparez votre image (format .jpg ou .png de préférence).
     Allez dans le dossier correspondant (ex: graffiti).
     Cliquez sur Add file > Upload files.
     Nommez votre fichier correctement avant de valider le "Commit".
 
 🛠 Maintenance technique
+
 Le carrousel du site web récupère automatiquement les fichiers présents dans ces dossiers. Si vous supprimez une photo ici, elle disparaîtra du site lors de la prochaine mise à jour du cache.
 Libre à vous de rajouter des catégories.
 
